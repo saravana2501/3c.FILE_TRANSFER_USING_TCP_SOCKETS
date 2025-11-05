@@ -2,7 +2,6 @@
  
 ### NAME:SARAVANA KUMAR S
 ### ROLL NO : 212224220090
-### DATE:29/04/2025
 
 ## AIM:
 To write a python program for creating File Transfer using TCP Sockets Links.
