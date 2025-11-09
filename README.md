@@ -1,8 +1,5 @@
 # 3-C : CREATION FOR FILE TRANSFER USING TCP SOCKETS  
  
-### NAME:SARAVANA KUMAR S
-### ROLL NO : 212224220090
-
 ## AIM:
 To write a python program for creating File Transfer using TCP Sockets Links.
 
